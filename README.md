@@ -1,5 +1,3 @@
-# alfred-workflow
-
 自分用
 
 ## timestamp_to_date
